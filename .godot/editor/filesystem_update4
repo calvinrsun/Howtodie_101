@@ -1,2 +1,3 @@
-res://character_body_2d.tscn
-res://game.tscn
+res://Assets/Scenes/Player.tscn
+res://Assets/Scenes/game.tscn
+res://Assets/Scenes/area_2d.tscn
