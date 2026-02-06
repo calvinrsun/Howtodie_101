@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://qqt0mmc1x20l"]
+
+[ext_resource type="Script" uid="uid://yx57q4w3g4y1" path="res://Assets/Scripts/gui.gd" id="1_d4yu0"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_jjyp0"]
+font_size = 32
+font_color = Color(0.957069, 0.898684, 7.70092e-07, 1)
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 0
+
+[node name="HUD" type="CanvasLayer" groups=["Coins"]]
+script = ExtResource("1_d4yu0")
+
+[node name="CoinsLabel" type="Label" parent="."]
+offset_left = 10.0
+offset_top = 10.0
+offset_right = 103.0
+offset_bottom = 55.0
+text = "Coins: 0"
+label_settings = SubResource("LabelSettings_jjyp0")

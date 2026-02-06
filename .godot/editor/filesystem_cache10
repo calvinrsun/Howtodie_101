@@ -1,3 +1,24 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1769918183
-icon.svg::CompressedTexture2D::40503674446493588::1769917513::1769918183::1::::<><><>0<>0<>77a00cf3708006820301dd7154e442d5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1770346619
+::res://Assets/::1770346619
+::res://Assets/Scenes/::1770346614
+area_2d.tscn::PackedScene/PackedScene::3638392943327435614::1770346614::0::1::::<><><>0<>0<><>::uid://cqm7dfmjh3hi7::::res://Assets/Scripts/area_2d.gd<>uid://cc3qy6jw34w65::::res://Assets/Sprites/icon.svg
+boss.tscn::PackedScene/PackedScene::8994751890820572964::1770346614::0::1::::<><><>0<>0<><>::uid://1lwwrbqrj3u1::::res://Assets/Sprites/Enemy.png<>uid://cpk7c4eq38yrg::::res://Assets/Scenes/killzone.tscn
+enemy.tscn::PackedScene/PackedScene::6855959658408784798::1770346614::0::1::::<><><>0<>0<><>::uid://1lwwrbqrj3u1::::res://Assets/Sprites/Enemy.png<>uid://dj1tg4yth5p2q::::res://Assets/Scripts/enemy.gd<>uid://cpk7c4eq38yrg::::res://Assets/Scenes/killzone.tscn
+game.tscn::PackedScene/PackedScene::7186688116573910318::1770346614::0::1::::<><><>0<>0<><>::uid://mtf5o57ssw2x::::res://Assets/Sprites/Dirt spritesheet.png<>uid://ctog26j0tkc4u::::res://Assets/Scenes/Player.tscn<>uid://br3p2hbdb7v71::::res://Assets/Scenes/area_2d.tscn<>uid://cpk7c4eq38yrg::::res://Assets/Scenes/killzone.tscn<>uid://c4xcwh6d2blxm::::res://Assets/Scenes/enemy.tscn<>uid://d1feiqobkedjg::::res://Assets/Scenes/boss.tscn<>uid://qqt0mmc1x20l::::res://Assets/Scenes/Hud.tscn
+hitbox.tscn::PackedScene/PackedScene::5883919851766796859::1764979249::0::1::::<><><>0<>0<><>::uid://diqorp4n2cjma::::res://hitbox.gd
+Hud.tscn::PackedScene/PackedScene::1157250458928066145::1770346614::0::1::::<><><>0<>0<><>::uid://yx57q4w3g4y1::::res://Assets/Scripts/gui.gd
+killzone.tscn::PackedScene/PackedScene::5848265844975703664::1770346614::0::1::::<><><>0<>0<><>::uid://0bhg4yad2bhp::::res://Assets/Scripts/killzone.gd
+Player.tscn::PackedScene/PackedScene::6135744846746451798::1770346614::0::1::::<><><>0<>0<><>::uid://coptikko0ruut::::res://Assets/Scripts/player.gd<>uid://dptumse30magy::::res://Assets/Sprites/Player.png
+::res://Assets/Scripts/::1764981844
+area_2d.gd::GDScript/GDScript::5922583981367464892::1764979249::0::1::::<>Area2D<><>0<>0<><>::
+enemy.gd::GDScript/GDScript::7845801364179425954::1764979249::0::1::::<>Node2D<><>0<>0<><>::
+gui.gd::GDScript/GDScript::1733892477054299950::1764979249::0::1::::<>CanvasLayer<><>0<>0<><>::
+killzone.gd::GDScript/GDScript::1757222762675195785::1764979249::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript/GDScript::5787619295195096035::1764979249::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Assets/Sprites/::1770346619
+Dirt spritesheet.png::CompressedTexture2D/CompressedTexture2D::881847242914259509::1764979249::1770346614::1::::<><><>0<>0<>00dd27dcb8a017e60ac1518cf409ee44<>res://.godot/imported/Dirt spritesheet.png-1d74f4a1cb4c779aaeff52d5737fb7dc.ctex::
+Enemy.png::CompressedTexture2D/CompressedTexture2D::1848994046382097610::1764981791::1770346614::1::::<><><>0<>0<>8dda766fe2215804b4f968dc094149d4<>res://.godot/imported/Enemy.png-780b5529d5078c10e10483d20bd65bd2.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::4972037605879178812::1764979249::1770346614::1::::<><><>0<>0<>ddc0f728a9787529055a01811900c93e<>res://.godot/imported/icon.svg-937281dbc6e7ba0435124e30fe85aebc.ctex::
+Placeholder.png::CompressedTexture2D::5059440442969832038::1770075737::1770346619::1::::<><><>0<>0<>8f3c3a5fe2f4d0173b124dddfb6a591b<>res://.godot/imported/Placeholder.png-66eee474033f222eb37e00dcccd6957a.ctex::
+Player.png::CompressedTexture2D/CompressedTexture2D::8252554605264705108::1764979249::1770346614::1::::<><><>0<>0<>c9c54b1ac889911938bfd7bb5a41207d<>res://.godot/imported/Player.png-b2c065f608361c5ef203209a6fcc30ba.ctex::
